@@ -9,7 +9,7 @@
 | Jumper Wires          | ₱99.75     | https://www.lazada.com.ph/products/40pcs-20cm-254mm-male-to-female-dupont-jumper-wires-cables-i6122012-s7751975.html?spm=a2o4l.searchlist.list.39.19293661BcKRfL&search=1                                |   |   |
 | Potentiometer         | ₱27.80     | https://www.lazada.com.ph/products/idealhere-5pcs-10k-ohm-linear-mono-stereo-pot-rotary-15mm-resistor-potentiometer-knobs-i277389259-s414286851.html?spm=a2o4l.searchlist.list.3.77287f1aNTQsn3&search=1 |   |   |
 
-# Pinout Guide
+# Pinout
 | Component     |     | Arduino Uno  |   |               |
 |---------------|-----|--------------|---|---------------|
 |               | PIN |              |   | PIN           |
